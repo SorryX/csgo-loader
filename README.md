@@ -1,6 +1,8 @@
 # An Advanced CS:GO Loader
 
-Hey, Welcome to Advanced Counter-Strike: Global Offensive loader
+
+Hey, Welcome to Advanced Counter-Strike: Global Offensive loader 
+built in C#
 
 This software has
 - Mac Design
