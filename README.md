@@ -32,10 +32,10 @@ the downloads to everysingle dll's
 
 All needed dlls
 
-[Bunifu](https://cdn.discordapp.com/attachments/414360261273583617/658092412597698590/Bunifu_UI_v1.52.dll)
-[GunaUI](https://cdn.discordapp.com/attachments/414360261273583617/658092415412076556/Guna.UI.dll)
-[Newtonsoft](https://cdn.discordapp.com/attachments/414360261273583617/658092416267714570/Newtonsoft.Json.dll)
-[Teen](https://cdn.discordapp.com/attachments/414360261273583617/658092416561315850/Teen.dll)
+[Bunifu](https://cdn.discordapp.com/attachments/414360261273583617/658092412597698590/Bunifu_UI_v1.52.dll) |
+[GunaUI](https://cdn.discordapp.com/attachments/414360261273583617/658092415412076556/Guna.UI.dll) |
+[Newtonsoft](https://cdn.discordapp.com/attachments/414360261273583617/658092416267714570/Newtonsoft.Json.dll) |
+[Teen](https://cdn.discordapp.com/attachments/414360261273583617/658092416561315850/Teen.dll) |
 [TrinitySeal](https://cdn.discordapp.com/attachments/414360261273583617/658092420075880448/TrinitySeal.dll)
 
 Btw this is all you need for the current timee.
