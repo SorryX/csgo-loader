@@ -40,3 +40,7 @@ All needed dlls
 
 Btw this is all you need for the current timee.
 but later maybe you will need more because of update reasons.
+
+## Read this if you want
+
+Thanks for reading ;)
